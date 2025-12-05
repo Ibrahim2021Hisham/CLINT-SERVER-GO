@@ -5,12 +5,12 @@ This project demonstrates a concurrent Client–Server architecture implemented 
 🎥 Video Explanation
 
 
-Uploading VID_20251205_224058.mp4…
 
 
-Click below to watch the full explanation video:
+https://github.com/user-attachments/assets/dc829ed7-fbdd-4259-b8ff-979ab0013f17
 
-Replace VIDEO_ID with the actual YouTube video ID.
+
+
 
 🚀 Features
 
